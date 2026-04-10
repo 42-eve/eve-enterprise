@@ -97,25 +97,18 @@ Chaque projet part d’une envie, d’un défi technique ou d’une idée à tes
 
 ## Statistiques GitHub
 
-Les cartes ci-dessous sont liées aux **comptes personnels** des membres (l’API [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) ne prend pas en charge les organisations comme un seul agrégat).
+Les métriques ci-dessous concernent les **profils personnels** (GitHub ne propose pas une seule carte « agrégée » pour une organisation). On combine des badges **Shields** (très fiables) et des cartes **streak** hébergées sur [Demolab](https://github-readme-streak-stats.demolab.com/) ; les langages passent par [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) avec thème standard et cache long pour limiter les erreurs de l’instance publique.
 
-<p align="center">
-  <a href="https://github.com/EvenZeppa">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=EvenZeppa&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=1d4ed8&hide_border=true&border_radius=12&custom_title=Even%20-%20GitHub%20Stats" alt="Stats GitHub Even" />
-  </a>
-  <a href="https://github.com/Corgidev42">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Corgidev42&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=1d4ed8&hide_border=true&border_radius=12&custom_title=Vincent%20-%20GitHub%20Stats" alt="Stats GitHub Vincent" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/EvenZeppa">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvenZeppa&layout=compact&title_color=fff&text_color=fff&bg_color=1d4ed8&hide_border=true&border_radius=12" alt="Top langages Even" />
-  </a>
-  <a href="https://github.com/Corgidev42">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corgidev42&layout=compact&title_color=fff&text_color=fff&bg_color=1d4ed8&hide_border=true&border_radius=12" alt="Top langages Vincent" />
-  </a>
-</p>
+| | |
+|:--:|:--:|
+| **Even** | **Vincent** |
+| [![Followers Even](https://img.shields.io/github/followers/EvenZeppa?style=for-the-badge&logo=github&label=Even&labelColor=1d4ed8&color=1e40af)](https://github.com/EvenZeppa) | [![Followers Vincent](https://img.shields.io/github/followers/Corgidev42?style=for-the-badge&logo=github&label=Vincent&labelColor=1d4ed8&color=1e40af)](https://github.com/Corgidev42) |
+| [![Série Even](https://github-readme-streak-stats.demolab.com/?user=EvenZeppa&theme=tokyonight&hide_border=true)](https://github.com/EvenZeppa) | [![Série Vincent](https://github-readme-streak-stats.demolab.com/?user=Corgidev42&theme=tokyonight&hide_border=true)](https://github.com/Corgidev42) |
+| [![Langages Even](https://github-readme-stats.vercel.app/api/top-langs/?username=EvenZeppa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)](https://github.com/EvenZeppa) | [![Langages Vincent](https://github-readme-stats.vercel.app/api/top-langs/?username=Corgidev42&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)](https://github.com/Corgidev42) |
+
+</div>
 
 ---
 
